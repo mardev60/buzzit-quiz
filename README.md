@@ -25,5 +25,5 @@ Avant de pouvoir lancer l'application, assurez-vous que vous avez les éléments
 
 1. **Clonez le projet** :
    ```bash
-   git clone https://votre-dépôt.git
-   cd votre-dossier
+   git clone https://github.com/mardev60/buzzit-quiz/
+   cd buzzit-quiz
