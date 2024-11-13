@@ -27,3 +27,10 @@ Avant de pouvoir lancer l'application, assurez-vous que vous avez les éléments
    ```bash
    git clone https://github.com/mardev60/buzzit-quiz/
    cd buzzit-quiz
+
+## Captures d'écran
+<p align="center">  
+  <img src="screenshots/login_screen.png" width="500" alt="Javascript" />
+ <img src="screenshots/category_screen.png" width="500" alt="Javascript" />
+ <img src="screenshots/quiz_screen.png" width="500" alt="Javascript" />
+</p>
