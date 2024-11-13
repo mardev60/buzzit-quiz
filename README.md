@@ -1,7 +1,6 @@
-# BuzzIt Quiz
 <p align="center">  
- <img src="assets/images/white_logo.png" width="150" alt="Javascript" />
- <img src="assets/images/dark_logo.png" width="150" alt="Javascript" />
+ <img src="assets/images/white_logo.png" width="250" alt="Javascript" />
+ <img src="assets/images/dark_logo.png" width="250" alt="Javascript" />
 </p>
 
 ## Description
