@@ -29,10 +29,10 @@ Avant de pouvoir lancer l'application, assurez-vous que vous avez les éléments
    cd buzzit-quiz
 
 ## Captures d'écran
-<p align="center">  
+<p align="left">  
   <img src="screenshots/login_screen.png" width="400" alt="Javascript" />
-  <br/>
+  <br/><br/><br/>
   <img src="screenshots/category_screen.png" width="400" alt="Javascript" />
-  <br/>
+  <br/><br/><br/>
   <img src="screenshots/quiz_screen.png" width="400" alt="Javascript" />
 </p>
