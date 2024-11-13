@@ -30,7 +30,9 @@ Avant de pouvoir lancer l'application, assurez-vous que vous avez les éléments
 
 ## Captures d'écran
 <p align="center">  
-  <img src="screenshots/login_screen.png" width="500" alt="Javascript" />
- <img src="screenshots/category_screen.png" width="500" alt="Javascript" />
- <img src="screenshots/quiz_screen.png" width="500" alt="Javascript" />
+  <img src="screenshots/login_screen.png" width="400" alt="Javascript" />
+  <br/>
+  <img src="screenshots/category_screen.png" width="400" alt="Javascript" />
+  <br/>
+  <img src="screenshots/quiz_screen.png" width="400" alt="Javascript" />
 </p>
