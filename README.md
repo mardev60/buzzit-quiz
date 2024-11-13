@@ -5,7 +5,8 @@
 
 ## Description
 
-Nom de l'Application est une application mobile développée avec **Flutter** et utilisant des concepts de **Material Design** pour une interface moderne et réactive. Cette application permet aux utilisateurs de **s'inscrire** et de **se connecter** via Firebase, avec des fonctionnalités supplémentaires telles que la gestion de catégories et la participation à des quiz interactifs.
+BuzzIt est une application mobile développée avec **Flutter** et utilisant des concepts de **Material Design** pour une interface moderne et réactive. 
+Cette application permet aux utilisateurs de **s'inscrire** et de **se connecter** via Firebase, avec des fonctionnalités supplémentaires telles que la gestion de catégories et la participation à des quiz interactifs.
 
 ### Fonctionnalités principales :
 - **Connexion / Inscription avec Firebase** : Les utilisateurs peuvent créer un compte et se connecter avec leur email et mot de passe.
