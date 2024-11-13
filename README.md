@@ -2,7 +2,7 @@
 
 # Nom de l'Application
 
-![Logo de l'Application](chemin/vers/le/logo-de-l-application.png)
+![Logo de l'Application](assets/images/white_logo.png)
 ![Flutter Logo](https://upload.wikimedia.org/wikipedia/commons/8/89/Flutter_logo_2021.svg)
 ![Material Design Logo](https://upload.wikimedia.org/wikipedia/commons/3/30/Material-UI-logo.png)
 
