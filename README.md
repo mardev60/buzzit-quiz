@@ -1,6 +1,6 @@
 # BuzzIt Quiz
-<p align="center">
- ![Logo de l'Application](assets/images/white_logo.png)  
+<p align="center">  
+ <img src="assets/images/white_logo.png" width="36" height="36" alt="Javascript" />
 </p>
 
 ## Description
