@@ -1,6 +1,7 @@
 # BuzzIt Quiz
-
-![Logo de l'Application](assets/images/white_logo.png)
+<p align="center">
+ ![Logo de l'Application](assets/images/white_logo.png)  
+</p>
 
 ## Description
 
