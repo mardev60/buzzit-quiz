@@ -1,10 +1,6 @@
-# buzzit
-
-# Nom de l'Application
+# BuzzIt Quiz
 
 ![Logo de l'Application](assets/images/white_logo.png)
-![Flutter Logo](https://upload.wikimedia.org/wikipedia/commons/8/89/Flutter_logo_2021.svg)
-![Material Design Logo](https://upload.wikimedia.org/wikipedia/commons/3/30/Material-UI-logo.png)
 
 ## Description
 
@@ -13,7 +9,7 @@ Nom de l'Application est une application mobile développée avec **Flutter** et
 ### Fonctionnalités principales :
 - **Connexion / Inscription avec Firebase** : Les utilisateurs peuvent créer un compte et se connecter avec leur email et mot de passe.
 - **Choix de catégorie** : Sélectionner une catégorie de quiz pour démarrer une nouvelle session de questions.
-- **Interaction avec les API** : Génération de quiz à partir d'une API externe, offrant des questions en fonction de la catégorie choisie.
+- **Interaction une IA** : Génération de quiz à partir d'une API externe (IA GROQ), proposant des questions en fonction de la catégorie choisie.
 - **Interface utilisateur responsive** : Interface moderne et intuitive, basée sur le framework **Material Design**.
 
 ## Prérequis
